@@ -5,10 +5,45 @@ permalink: /publications/
 author_profile: true
 ---
 
+## **Carveout Project for an Energy Sector Company**  
+This project focused on supporting the IT infrastructure carveout for an energy sector company. The role involved leading the Workplace and IT Security teams through a complex IT transition, setting up new IT services, configuring Microsoft licenses, and deploying secure, modern workplace solutions. The project included the setup of Active Directory, Azure AD, O365 services (Exchange, Teams, SharePoint), and Intune for device management, as well as the design and implementation of Azure Virtual Desktop.
+
+## Project Objectives:
+
+- Lead the IT teams through the carveout process while ensuring minimal disruption to operations.
+- Configure Microsoft licensing and setup enterprise solutions, including Active Directory, O365, and Azure Virtual Desktop.
+- Design and implement a secure, modern workplace solution for devices and virtual desktops.
+
+## Key Contributions:
+
+- **Team Leadership:** Managed and led the Workplace and IT Security teams, ensuring collaboration and alignment throughout the project.
+- **Microsoft Licensing:** Provided consulting on Microsoft licensing options, optimizing costs and ensuring compliance with the carveout requirements.
+- **Active Directory & Azure AD Setup:** Configured and migrated Active Directory and Azure Active Directory to support the new company’s identity and access management needs.
+- **O365 Environment Setup:** Implemented and configured O365 services, including Exchange Online, Microsoft Teams, and SharePoint, to support modern collaboration and communication.
+- **Azure Virtual Desktop Implementation:** Designed and deployed Azure Virtual Desktop (AVD) to support remote work and virtualized desktop solutions.
+- **Intune Deployment:** Configured Intune for mobile device management, ensuring security and compliance across laptops and mobile devices.
+
+## Achievements:
+
+- Successfully led the IT carveout project, ensuring all IT systems were migrated and operational within the set timeline.
+- Streamlined IT operations by consolidating services under Microsoft O365, reducing reliance on legacy systems.
+- Enhanced security posture with Intune and Azure AD, reducing security risks associated with device management and access control.
+
+## Technologies Used:
+
+- **Microsoft Active Directory & Azure AD:** Identity management, user provisioning.
+- **Microsoft O365:** Exchange, Teams, SharePoint.
+- **Azure Virtual Desktop (AVD):** Virtual desktop infrastructure.
+- **Microsoft Intune:** Device management, compliance policies.
+- **PowerShell:** Automation of administrative tasks and configurations.
+
+
+---
+
 ## **Autopilot for Migration Project**  
  The Autopilot for Migration project aimed to streamline and automate the deployment, configuration, and management of new devices across the organization using Microsoft’s Autopilot and Endpoint Manager. This project was critical in supporting the company’s migration from traditional, manual device imaging methods to a modern, cloud-based solution. By leveraging Autopilot, we reduced deployment times, minimized IT overhead, and ensured a consistent and secure configuration for all new devices.
 
- ### Project Objectives:
+### Project Objectives:
 
  - Automate the deployment process of Windows 10/11 devices using Microsoft Autopilot.
  - Standardize device configuration profiles to maintain compliance and security standards.
@@ -38,6 +73,8 @@ author_profile: true
 - PowerShell Scripting: Customized scripts for automation and troubleshooting.
 
 This project not only modernized the device deployment process but also laid a strong foundation for future scalability and integration of more advanced IT solutions across the organization.
+
+---
 
 ## **Always On VPN Deployment with Device Tunnel and User Tunnel Integration**
 The Always On VPN project focused on implementing a robust and secure remote connectivity solution that provided seamless, on-demand access for both corporate-managed devices and users. By leveraging Always On VPN with device tunnel and user tunnel configurations, we enabled secure, granular access to internal resources for remote workers while maintaining strict compliance and security standards. This solution was integrated with Azure and Intune to ensure centralized management and simplified deployment, reducing administrative overhead and enhancing user experience.
