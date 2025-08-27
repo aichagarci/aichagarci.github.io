@@ -180,7 +180,7 @@ collections:
   teaching:
     output: false
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: false
     permalink: /:collection/:path/
   codeanddata:
@@ -223,10 +223,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true

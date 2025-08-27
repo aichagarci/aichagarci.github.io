@@ -1,20 +1,20 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /publications/
+permalink: /projects/
 author_profile: true
 ---
 
 ## **Carveout Project for an Energy Sector Company**  
 This project focused on supporting the IT infrastructure carveout for an energy sector company. The role involved leading the Workplace and IT Security teams through a complex IT transition, setting up new IT services, configuring Microsoft licenses, and deploying secure, modern workplace solutions. The project included the setup of Active Directory, Azure AD, O365 services (Exchange, Teams, SharePoint), and Intune for device management, as well as the design and implementation of Azure Virtual Desktop.
 
-## Project Objectives:
+### Project Objectives:
 
 - Lead the IT teams through the carveout process while ensuring minimal disruption to operations.
 - Configure Microsoft licensing and setup enterprise solutions, including Active Directory, O365, and Azure Virtual Desktop.
 - Design and implement a secure, modern workplace solution for devices and virtual desktops.
 
-## Key Contributions:
+### Key Contributions:
 
 - **Team Leadership:** Managed and led the Workplace and IT Security teams, ensuring collaboration and alignment throughout the project.
 - **Microsoft Licensing:** Provided consulting on Microsoft licensing options, optimizing costs and ensuring compliance with the carveout requirements.
@@ -23,19 +23,48 @@ This project focused on supporting the IT infrastructure carveout for an energy 
 - **Azure Virtual Desktop Implementation:** Designed and deployed Azure Virtual Desktop (AVD) to support remote work and virtualized desktop solutions.
 - **Intune Deployment:** Configured Intune for mobile device management, ensuring security and compliance across laptops and mobile devices.
 
-## Achievements:
+### Achievements:
 
 - Successfully led the IT carveout project, ensuring all IT systems were migrated and operational within the set timeline.
 - Streamlined IT operations by consolidating services under Microsoft O365, reducing reliance on legacy systems.
 - Enhanced security posture with Intune and Azure AD, reducing security risks associated with device management and access control.
 
-## Technologies Used:
+### Technologies Used:
 
 - **Microsoft Active Directory & Azure AD:** Identity management, user provisioning.
 - **Microsoft O365:** Exchange, Teams, SharePoint.
 - **Azure Virtual Desktop (AVD):** Virtual desktop infrastructure.
 - **Microsoft Intune:** Device management, compliance policies.
 - **PowerShell:** Automation of administrative tasks and configurations.
+
+---
+
+## **SharePoint Concept for a Cybersecurity Company**  
+This project involved designing and implementing a SharePoint concept for a cybersecurity company. The goal was to create a centralized platform for document management, collaboration, and internal communication. The project was tailored for 20 different departments, each with unique requirements for document sharing, security, and workflow processes. The focus was on designing a scalable and secure SharePoint architecture to support the company’s collaborative needs.
+
+### Project Objectives
+
+- Develop a scalable and secure SharePoint structure for multiple departments.
+- Customize the SharePoint solution to meet the specific needs of each department within the organization.
+- Provide training for all employees on using SharePoint effectively.
+
+### Key Contributions
+
+- **Conceptual Design:** Created a comprehensive SharePoint architecture that segmented information based on departmental needs, ensuring both security and ease of use.
+- **Customization:** Developed department-specific templates and workflows to streamline document management and collaboration.
+- **Training:** Delivered customized SharePoint training sessions for over 200 employees across 20 departments, enabling them to fully utilize the platform.
+
+### Achievements:
+
+- Improved collaboration across departments by centralizing document storage and sharing.
+- Achieved a 30% reduction in time spent searching for and managing documents.
+- Successfully trained over 200 employees, ensuring widespread adoption of SharePoint within the organization.
+
+### Technologies Used:
+
+- **Microsoft SharePoint:** Document management, workflows, permissions.
+- **Microsoft Teams:** Integrated with SharePoint for team collaboration.
+- **Power Automate:** Workflow automation.
 
 
 ---

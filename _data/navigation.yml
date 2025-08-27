@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Code and Data"
     url: /codeanddata/
@@ -19,7 +19,7 @@ main:
     url: /blog-posts/
     
   - title: "CV"
-    url: https://arthurouaknine.github.io/files/cv_ouaknine.pdf
+    url: https://aichagarci.github.io/files/Aicha_Garci_CV.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
