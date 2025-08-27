@@ -3,20 +3,20 @@ main:
   - title: "Projects"
     url: /publications/
 
-  - title: "Code and Data"
-    url: /codeanddata/
+#  - title: "Code and Data"
+#    url: /codeanddata/
 
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /blog-posts/
+#  - title: "Blog Posts"
+#    url: /blog-posts/
     
   - title: "CV"
     url: https://aichagarci.github.io/files/Aicha_Garci_CV.pdf
